@@ -6,7 +6,7 @@ End-to-end airline network planning analytics project using BTS T-100 data, Post
 
 ## Live Dashboards
 
-![View the interactive Tableau report](https://public.tableau.com/views/DFW_Network_Capacity_Route_Performance/DFWNetworkCapacity?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the interactive Tableau report](https://public.tableau.com/views/DFW_Network_Capacity_Route_Performance/DFWNetworkCapacity?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Report Pages
 1. Executive Overview
@@ -46,7 +46,7 @@ End-to-end airline network planning analytics project using BTS T-100 data, Post
 
 U.S. Department of Transportation, Bureau of Transportation Statistics: T-100 Domestic Segment (All Carriers). The table contains domestic nonstop segment data including passengers, seats, scheduled/performed departures, distance, carrier, airports, and aircraft information.
 
-![Download BTS T-100 Domestic Segment data](https://transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45)
+[Download BTS T-100 Domestic Segment data](https://transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45)
 
 ### Project Period
 
